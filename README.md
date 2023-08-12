@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently studying on Xiamen University.
+- 🔭 I’m currently studying in Xiamen University.
 - 🌱 I’m currently learning NeRF and 3D-Reconstruction with point cloud.
 - 👯 I’m looking to collaborate on 3D vision.
 - 🤔 I’m looking for help with you!
