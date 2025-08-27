@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently studying in Xiamen University.
-- 🌱 I’m currently learning NeRF and 3D-Reconstruction with point cloud.
+- 🌱 I’m currently learning **NeRF, 3D-Reconstruction and 3D Object Detection** with point cloud.
 - 👯 I’m looking forward to communicating with all of you about 3D vision.
 
 <!--
