@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Xiamen University.
-- 🌱 I’m currently learning **NeRF, 3D-Reconstruction and 3D Object Detection** with point cloud.
+- 🌱 I’m currently learning NeRF, 3D-Reconstruction and 3D Object Detection with point cloud.
 - 👯 I’m looking to collaborate on 3D vision.
 - 🤔 I’m looking for learn with you!
 -->
